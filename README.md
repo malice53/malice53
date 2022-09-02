@@ -1,7 +1,7 @@
 <h1 align="center">Malice</h1>
 
 
-![](https://komarev.com/ghpvc/?username=sjmccurry)
+![](https://komarev.com/ghpvc/?username=benzfivem)
 
 ### 🛠 &nbsp;Languages / Tools:
 <p>
@@ -13,9 +13,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-0BCBBA?style=flat-square&logo=css3&logoColor=white" />
 </p>
+
 ### 📊 &nbsp;Stats:
-<a href="http://www.github.com/sjmccurry" align="left"><img src="https://github-readme-stats.vercel.app/api?username=sjmccurry&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="sjmccurry's GitHub stats" /></a>
+<a href="http://www.github.com/sjmccurry" align="left"><img src="https://github-readme-stats.vercel.app/api?username=benzfivem&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="sjmccurry's GitHub stats" /></a>
 
-<a href="http://www.github.com/benzfivem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sjmccurry&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/benzfivem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benzfivem&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/benzfivem" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjmccurry&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/benzfivem" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benzfivem&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
